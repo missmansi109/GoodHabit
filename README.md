@@ -16,24 +16,17 @@ Problem Statement 9,"Build the Ultimate Digital Habit Builder"
 ## 🎯 Objective
 A tool to help build and maintain habits effectively should incorporate the following elements:
 Goal Setting and Planning:
-Clearly define specific and measurable goals. 
-Develop a detailed plan with cues to trigger the habit. 
-Tracking and Monitoring:
-Use a habit tracker to record progress daily or weekly. 
-Visualize progress to stay motivated. 
-Fun and Rewards:
-Make the process enjoyable to encourage repetition. 
-Reward small victories to reinforce positive behavior. 
-Social Support and Accountability:
-Find a supportive community or partner for accountability. 
-Share progress and encourage each other.
-Reflection and Adjustment:
-Regularly review progress and make necessary adjustments. 
-Learn from setbacks and plan for them. 
-Nudges and Reminders:
-Use visual cues and reminders to prompt the habit. 
-Create an environment that supports the desired behavior.
+📋 Goal Setting & Planning: Set specific and measurable reading goals.
 
+📊 Tracking & Monitoring: Log reading time and visualize progress.
+
+🎉 Fun & Rewards: Earn points for time spent reading.
+
+👥 Social Support: Optional accountability and progress sharing.
+
+🔁 Reflection: Review stats and tweak habits as needed.
+
+⏰ Nudges & Reminders: Visual reminders and gamified triggers.
 ---
 
 ## 🧠 Team & Approach
@@ -42,16 +35,20 @@ Create an environment that supports the desired behavior.
 TECH EXPLORER
 
 ### Team Members:  
-- Atifa 
+- Aatifa 
 - Kashish 
 - Mansi
 - Mehak
 
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+We chose this idea because reading is a foundational habit that boosts knowledge and focus.
+
+Our goal was to gamify reading using minimal yet effective tools.
+
+We brainstormed several habit ideas before narrowing it down to reading.
+
+During hacking, we figured out how to implement timers, local PDF reading, and save progress using PHP & MySQL.
 
 ---
 
@@ -59,10 +56,9 @@ TECH EXPLORER
 
 ### Core Technologies Used:
 - Frontend:html css javascript
-- Backend: MySQL,PHP
-- Database:
-- APIs:
-- Hosting:
+- Backend:PHP
+- Database:MySQL
+- Hosting:Local Server / XAMPP / Replit (optional)
 
 ### Sponsor Technologies Used (if any):
 - [ ] **Groq:** _How you used Groq_  
@@ -77,11 +73,15 @@ TECH EXPLORER
 ## ✨ Key Features
 
 Highlight the most important features of your project:
+✅ Select books by category (Fiction, Non-Fiction, etc.)
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+✅ Read PDFs directly in the app
+
+✅ Timer to track reading time
+
+✅ Earn points as you read
+
+✅ Save and view progress 
 
 Add images, GIFs, or screenshots if helpful!
 
