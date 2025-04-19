@@ -130,8 +130,7 @@ reading-habit-builder/
 ├── save_user_data.php
 
 ---
-
-## 🧬 Future Scope
+### 🧬 Future Scope
 
 List improvements, extensions, or follow-up features:
 
@@ -147,7 +146,7 @@ List improvements, extensions, or follow-up features:
 
 ---
 
-## 📎 Resources / Credits
+### 📎 Resources / Credits
 
 Dummy PDFs from PDFescape
 
