@@ -2,7 +2,7 @@
 
 # 🚀 Project Title
 
-> A one-line tagline or mission statement for your project.
+>"Small habits make a big difference. Start today, stay consistent, and shape your future."
 
 ---
 
@@ -83,7 +83,6 @@ Highlight the most important features of your project:
 
 ✅ Save and view progress 
 
-Add images, GIFs, or screenshots if helpful!
 
 ---
 
@@ -96,9 +95,9 @@ Add images, GIFs, or screenshots if helpful!
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 *(Mark with ✅ if completed)*
 
@@ -107,24 +106,28 @@ Add images, GIFs, or screenshots if helpful!
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+PHP-enabled server (e.g. XAMPP)
+
+Browser
 
 ### Local Setup:
-```bash
 # Clone the repo
-git clone https://github.com/your-team/project-name
+git clone https://github.com/TECH-EXPLORER/reading-habit-builder.git
 
-# Install dependencies
-cd project-name
-npm install
+# Move to directory and run in XAMPP or any PHP server
+cd reading-habit-builder
 
-# Start development server
-npm run dev
 ```
 
 Provide any backend/frontend split or environment setup notes here.
+reading-habit-builder/
+├── index.html
+├── books/
+│   ├── fiction/
+│   │   ├── book1.pdf
+│   │   └── book2.pdf
+│   └── ... (other categories)
+├── save_user_data.php
 
 ---
 
@@ -132,22 +135,34 @@ Provide any backend/frontend split or environment setup notes here.
 
 List improvements, extensions, or follow-up features:
 
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
+📅 Add daily streak calendar
+
+🧠 Personalized reading recommendations
+
+🌐 Multilingual book support
+
+📱 Convert to mobile PWA
+
+🛡️ Secure login & user accounts
 
 ---
 
 ## 📎 Resources / Credits
 
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
+Dummy PDFs from PDFescape
+
+JavaScript DOM tutorials from MDN
+
+PHP basics from W3Schools
+
+Icons from Emojipedia
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+This was a fun hackathon! We learned to work as a team, debug together, and turn ideas into something real — a habit builder that could help anyone read more and build discipline in a fun way!
+
+Thanks to the mentors and organizers
 
 ---
